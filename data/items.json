@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "name": "Potion de Soin Petite",
+      "description": "Petite potion de soin pour restaurer quelques points de vie.",
+      "value": 10,
+      "type": "HEAL"
+    },
+    {
+      "name": "Potion de Soin Moyenne",
+      "description": "Potion de soin modérée pour restaurer une quantité de points de vie moyenne.",
+      "value": 20,
+      "type": "HEAL"
+    },
+    {
+      "name": "Potion de Soin Grande",
+      "description": "Grande potion de soin pour restaurer une grande quantité de points de vie.",
+      "value": 50,
+      "type": "HEAL"
+    },
+    {
+      "name": "Potion de Dégâts Petite",
+      "description": "Petite potion d'attaque qui inflige des dégâts à l'ennemi.",
+      "value": 10,
+      "type": "ATK"
+    },
+    {
+      "name": "Potion de Dégâts Moyenne",
+      "description": "Potion d'attaque modérée qui inflige des dégâts moyens à l'ennemi.",
+      "value": 25,
+      "type": "ATK"
+    },
+    {
+      "name": "Potion de Dégâts Grande",
+      "description": "Grande potion d'attaque qui inflige d'importants dégâts à l'ennemi.",
+      "value": 50,
+      "type": "ATK"
+    }
+  ]
+}
+

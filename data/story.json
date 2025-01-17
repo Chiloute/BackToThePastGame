@@ -1,0 +1,74 @@
+{
+    "chapters": [
+        {
+            "name": "Entree du Donjon",
+            "txt": "Vous vous tenez devant une immense porte en pierre, ornee de gravures anciennes representant des creatures inconnues.\nUne odeur de moisi s'echappe de l'ouverture entrouverte.",
+            "actions": [
+                "Pousser la porte et entrer dans le donjon.",
+                "Inspecter les environs pour trouver des indices."
+            ]
+        },
+        {
+            "name": "Les Couloirs Oubliees",
+            "txt": "En entrant dans le donjon, vous decouvrez un long couloir faiblement eclaire. Deux chemins s'offrent a vous : L'un plonge dans l'obscurite totale. L'autre semble mener a une lumiere vacillante.",
+            "actions": [
+                "Prendre le couloir sombre.",
+                "Suivre le chemin lumineux."
+            ]
+        },
+        {
+            "name": "La Salle aux Pieges",
+            "txt": "Vous arrivez dans une grande salle au sol couvert de dalles decorees. Un mecanisme s'active lorsque vous posez le pied sur la premiere dalle. Vous entendez un bruit sourd, suivi d'un clic.",
+            "actions": [
+                "Courir droit devant.",
+                "Observer attentivement les dalles.",
+                "Revenir sur vos pas."
+            ]
+        },
+        {
+            "name": "Golem Gardien",
+            "txt": "Une immense creature de pierre se reveille et bloque votre chemin, tenant une enorme epée. Ses yeux brillent d'une lumiere rouge menaçante.",
+            "actions": [
+                "L'attaquer avec votre arme.",
+                "Chercher une issue discrète.",
+                "Utiliser un objet de votre inventaire."
+            ]
+        },
+        {
+            "name": "L'Enigme de la Table",
+            "txt": "Vous arrivez dans une salle circulaire avec une grande table de pierre. Une enigme est gravee : 'Je ne peux être vu, mais je suis toujours present. Je suis le compagnon du silence. Que suis-je ?'",
+            "actions": [
+                "Repondre a l'enigme.",
+                "Ignorer l'enigme.",
+                "Inspecter la piece."
+            ]
+        },
+        {
+            "name": "Le Tresor cache",
+            "txt": "Vous decouvrez une salle ornee de joyaux et de tresors. Au centre, un artefact ancien repose sur un piedestal. Mais les murs semblent instables, comme si la piece allait s'effondrer.",
+            "actions": [
+                "Prendre l'artefact sans reflechir.",
+                "Inspecter les murs pour detecter une autre menace.",
+                "Utiliser la cle magique pour acceder a un passage sur."
+            ]
+        },
+        {
+            "name": "La fuite",
+            "txt": "Le donjon commence a trembler violemment. Des morceaux de plafond tombent, et le sol se fissure sous vos pieds. Vous devez trouver une issue rapidement !",
+            "actions": [
+                "Courir vers la lumiere a l'horizon.",
+                "Revenir sur vos pas pour sortir par l'entree principale.",
+                "Utiliser un artefact pour vous teleporter hors du donjon."
+            ]
+        },
+        {
+            "name": "L'Epilogue",
+            "txt": "Le donjon est desormais derriere vous. Le sort que vous avez rencontre depend des objets collectes et des choix que vous avez faits.",
+            "actions": [
+                "Fin heroique (Condition: posseder l'artefact ancien et avoir utilise les objets strategiquement).",
+                "Fin neutre (Condition: Vous avez quelques objets, mais avez perdu l'artefact ancien).",
+                "Fin tragique (Condition: Vous etes gravement blesse ou coince)."
+            ]
+        }
+    ]
+}

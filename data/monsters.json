@@ -1,0 +1,75 @@
+{
+    "monsters": [
+        { 
+            "name": "Goblin", 
+            "id_monstre": 0, 
+            "LP": 10, 
+            "atk": 2, 
+            "ascii_art": "       __   \n      /  \\  \n     |    | \n    /      \\ \n   |  O  O  | \n   |    ^   | \n   |   \\_/  | \n    \\______/"
+        },
+        { 
+            "name": "Orc", 
+            "id_monstre": 1, 
+            "LP": 20, 
+            "atk": 5, 
+            "ascii_art": "     ____    \n    /    \\   \n   /      \\  \n  |  O O   | \n  |   ^    | \n  |  \\_/   | \n   \\______  | \n      |      \\"
+        },
+        { 
+            "name": "Troll", 
+            "id_monstre": 2, 
+            "LP": 30, 
+            "atk": 7, 
+            "ascii_art": "      ____  \n     /    \\ \n    |      | \n    |  O O | \n    |   ^  | \n   /|   __ | \n  / |  /  \\  \n  |  \\______\\"
+        },
+        { 
+            "name": "Dragonnet", 
+            "id_monstre": 3, 
+            "LP": 50, 
+            "atk": 10, 
+            "ascii_art": "       __    \n      /  \\   \n     /    \\  \n    |  O O | \n   (|   ^   |)\n    \\   ~   / \n     \\_____/ \n    /  | |  \\"
+        },
+        { 
+            "name": "Zombie", 
+            "id_monstre": 4, 
+            "LP": 15, 
+            "atk": 3, 
+            "ascii_art": "     ____    \n    /    \\   \n   | O  O |  \n   |   ^  |  \n   |  \\_/ |  \n   /      \\ \n  |  \\____/ \n   \\______|  "
+        },
+        { 
+            "name": "Vampire", 
+            "id_monstre": 5, 
+            "LP": 25, 
+            "atk": 6, 
+            "ascii_art": "     __     \n    /  \\    \n   |   O |   \n   |   ^ |   \n  (|     |)  \n   |  \\_/|   \n   |    |    \n   /     \\   "
+        },
+        { 
+            "name": "Loup-garou", 
+            "id_monstre": 6, 
+            "LP": 35, 
+            "atk": 8, 
+            "ascii_art": "    /\\___/\\   \n   /  o o  \\  \n  (    ^    ) \n   \\   ~   /  \n    \\_____\\   "
+        },
+        { 
+            "name": "Golem", 
+            "id_monstre": 7, 
+            "LP": 40, 
+            "atk": 9, 
+            "ascii_art": "       ,      ,\n      /(.-\"\"-.)\\\n  |\\  \\/      \\/  /|\n  | \\ / =.  .= \\ / |\n  \\( \\   o\\/o   / )/\n   \\_, '-/  \\-' ,_/\n     /   \\__/   \\\n     \\ \\__/--\\__/ /\n   ___\\    --    /___\n /`    '--'  '--'    `\\"
+        },
+        { 
+            "name": "Démon", 
+            "id_monstre": 8, 
+            "LP": 60, 
+            "atk": 12, 
+            "ascii_art": "     ____      \n    /    \\     \n   |  O O |    \n   |   ^  |    \n   |   ~  |    \n   |______|    \n     | |       "
+        },
+        { 
+            "name": "Esprit", 
+            "id_monstre": 9, 
+            "LP": 20, 
+            "atk": 4, 
+            "ascii_art": "     /\\     \n    /  \\    \n   |    |   \n   |   ~|   \n   |  ~  |  \n   |    |   \n   \\____/   "
+        }
+    ]  
+}
+
